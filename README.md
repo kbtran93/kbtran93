@@ -6,7 +6,7 @@ Hi there, I'm Binh Tran</a> 👋
 I'm a MSc in Economics 🤓, Photographer 📸, and Traveler ✈️!
 </h2> 
 
-I love the entire process of analyzing data. I love the challenge of finding interesting information from data and turn them into interesting stories to people.
+I love the entire process of analyzing data and turning them into interesting stories for people.
 
 ### 🤝 Connect with me:
 
