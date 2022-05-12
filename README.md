@@ -3,7 +3,7 @@ Hi there, I'm Binh Tran</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a nerd for Economics 🤓, Photographer 📸, and Traveler ✈️!
+I'm a MSc in Economics 🤓, Photographer 📸, and Traveler ✈️!
 </h2> 
 
 I love the entire process of analyzing data and turning them into interesting stories for people.
