@@ -9,10 +9,10 @@ I'm a MSc in Economics 🤓, Photographer 📸, and Traveler ✈️!
 I love the entire process of analyzing data and turning them into interesting stories for people.
 
 ## 🤝 Connect with me:
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 - <a href="https://www.linkedin.com/in/binh-tran-b6233b62/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Binh Tran | LinkedIn" width="21px"/></a>
 </a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+</br> 
 
 ## 🔭 I'm currently working on
 
