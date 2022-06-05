@@ -19,7 +19,7 @@ I love the entire process of analyzing data and turning them into interesting st
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
 </p>
 
-## 🤝 Contact me:
+## 🤝 Contact me
 <a href="https://www.linkedin.com/in/binhktran93/">
   <img
     alt="Linkedin"
