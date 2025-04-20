@@ -40,8 +40,8 @@ I love the entire process of analyzing data and turning them into interesting st
 
 ## 🌱 I'm currently learning
 
-- Programming skills: Python, R, SQL
-- Machine learning algorithms
+- Programming skills: Python, R
+- Building ETL pipelines
 <!---
 kbtran93/kbtran93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
